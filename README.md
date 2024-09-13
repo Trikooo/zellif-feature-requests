@@ -2,8 +2,7 @@
 
 This is the place to submit feature requests for [Zellif](https://zellif.com).
 
-Creating new tickets for feature requests or suggestions is greatly appreciated 🙂 Feel free to upvote the ones you'd like us to prioritize.
-
+We'd love to hear your ideas and feature suggestions! 😊 Don’t forget to upvote the ones you want to see first, so we know what matters most to you.
 ## Getting Started
 
 Head over to [our website](https://zellif.com) to download and explore Zellif.
