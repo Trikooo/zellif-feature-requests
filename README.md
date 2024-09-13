@@ -1,4 +1,4 @@
-# Zellif
+![Zellif Logo](https://github.com/Trikooo/zellif-issues/blob/main/zellif.png?raw=true)
 
 This is the place to submit feature requests for [Zellif](https://zellif.com).
 
